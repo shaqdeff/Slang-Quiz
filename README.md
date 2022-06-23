@@ -1,6 +1,6 @@
 # Slang-Quiz
 
-This is a simple interactive quiz project with questions testing on urban slang knowledge.
+This is a simple interactive quiz project with questions testing on urban slang knowledge. It consists of 10 questions, each carrying 10 points per correct answer.
 
 ## Built With
 
